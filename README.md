@@ -1,1 +1,6 @@
 # mandelbrot-set-visualisation
+The Mandelbrot set is a famous and iconic fractal in mathematics. It is a set of complex numbers that has a highly intricate and infinitely complex boundary when visualized.
+The Mandelbrot set is defined by an incredibly simple formula: zn+1 = zn^2 + c, where points c in the complex plane are tested by iterating this equation to see if the sequence of values remains bounded or escapes towards infinity.
+The set consists of all values of c for which the sequence remains bounded. When plotted with a color scheme based on how quickly the sequence diverges, the Mandelbrot set reveals beautiful, intricate, self-similar patterns that repeat infinitely at every scale.
+Despite its simple definition, the Mandelbrot set exhibits incredible complexity and was one of the first objects to illustrate the concept of fractals - geometric shapes that are self-similar across scales. Its discovery helped spark interest in chaos theory, complex dynamics, and the visualizations made possible by computers.
+The Mandelbrot set has become one of the most recognizable and iconic images in mathematics due to its aesthetic beauty and amazing intricacy emerging from such a simple equation. It has found applications in fields like physics, engineering, and even art and design.
